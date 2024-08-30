@@ -1,0 +1,16 @@
+user1@iiti.com
+user2@gmail.com
+user3@iiti.com
+frank.wilson@sample.com
+grace1234@example.com
+hank.miller@test.com
+irene.c@example.com
+joseph_doe@demo.com
+karen-anne@sample.com
+lisa_007@mail.com
+mike.j@sample.com
+nancy@example.com
+olivia123@test.com
+paul.harris@demo.com
+quincy@sample.com
+rachel_2@mail.com
